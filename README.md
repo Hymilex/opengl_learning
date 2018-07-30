@@ -26,5 +26,13 @@ void RectPaint()
 ```
 - ConfigBasicVariables.
 ```
-1,2,3
+
 ```
+- Processure
+
+> Step.1
+    InitParams()
+> Step.2
+    DisplayFuctions()
+> Step.3
+    glutDisplayFunc()
