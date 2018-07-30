@@ -31,8 +31,13 @@ void RectPaint()
 - Processure
 
 > Step.1
-    InitParams()
+
+    - InitParams()
+
 > Step.2
-    DisplayFuctions()
+
+    - DisplayFuctions()
+
 > Step.3
-    glutDisplayFunc()
+
+    - glutDisplayFunc()
